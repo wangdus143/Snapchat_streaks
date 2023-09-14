@@ -8,7 +8,7 @@ This is a web based SnapChat Clone which is a work in progress
   - Login Script
   - Stories
   - Chat
-
+#stan_ladakh
 #### Coming Features!
 
   - Finish Register Page UI
